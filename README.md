@@ -5,7 +5,7 @@ Este repositório contém um eBook criado com o objetivo de orientar educadores,
 ## 🔗 Acesse o eBook
 
 Você pode visualizar o projeto no Canva através deste link:  
-[➡️ Visualizar eBook no Canva]([https://www.canva.com/design/DAGqK_bqilw/ZW7hMa0pd6DswEGisVoXpw/edit](https://www.canva.com/design/DAGqK_bqilw/ZW7hMa0pd6DswEGisVoXpw/edit?utm_content=DAGqK_bqilw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+[➡️ Visualizar eBook no Canva][https://www.canva.com/design/DAGqK_bqilw/ZW7hMa0pd6DswEGisVoXpw/edit](https://www.canva.com/design/DAGqK_bqilw/ZW7hMa0pd6DswEGisVoXpw/edit?utm_content=DAGqK_bqilw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 > Caso o link não abra, certifique-se de estar logado no Canva.
 
